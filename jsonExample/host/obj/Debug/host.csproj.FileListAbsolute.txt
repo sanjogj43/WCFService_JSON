@@ -1,0 +1,8 @@
+c:\users\sanjog\documents\visual studio 2013\Projects\jsonExample\host\bin\Debug\host.exe.config
+c:\users\sanjog\documents\visual studio 2013\Projects\jsonExample\host\bin\Debug\host.exe
+c:\users\sanjog\documents\visual studio 2013\Projects\jsonExample\host\bin\Debug\host.pdb
+c:\users\sanjog\documents\visual studio 2013\Projects\jsonExample\host\bin\Debug\WCFTest.dll
+c:\users\sanjog\documents\visual studio 2013\Projects\jsonExample\host\bin\Debug\WCFTest.pdb
+c:\users\sanjog\documents\visual studio 2013\Projects\jsonExample\host\obj\Debug\host.csprojResolveAssemblyReference.cache
+c:\users\sanjog\documents\visual studio 2013\Projects\jsonExample\host\obj\Debug\host.exe
+c:\users\sanjog\documents\visual studio 2013\Projects\jsonExample\host\obj\Debug\host.pdb

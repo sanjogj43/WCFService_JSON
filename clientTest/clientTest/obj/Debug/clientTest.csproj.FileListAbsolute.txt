@@ -1,0 +1,6 @@
+c:\users\sanjog\documents\visual studio 2013\Projects\clientTest\clientTest\bin\clientTest.dll.config
+c:\users\sanjog\documents\visual studio 2013\Projects\clientTest\clientTest\bin\clientTest.dll
+c:\users\sanjog\documents\visual studio 2013\Projects\clientTest\clientTest\bin\clientTest.pdb
+c:\users\sanjog\documents\visual studio 2013\Projects\clientTest\clientTest\obj\Debug\clientTest.csprojResolveAssemblyReference.cache
+c:\users\sanjog\documents\visual studio 2013\Projects\clientTest\clientTest\obj\Debug\clientTest.dll
+c:\users\sanjog\documents\visual studio 2013\Projects\clientTest\clientTest\obj\Debug\clientTest.pdb

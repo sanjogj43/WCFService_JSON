@@ -1,0 +1,6 @@
+c:\users\sanjog\documents\visual studio 2013\Projects\jsonExample\WCFTest\bin\Debug\WCFTest.dll.config
+c:\users\sanjog\documents\visual studio 2013\Projects\jsonExample\WCFTest\bin\Debug\WCFTest.dll
+c:\users\sanjog\documents\visual studio 2013\Projects\jsonExample\WCFTest\bin\Debug\WCFTest.pdb
+c:\users\sanjog\documents\visual studio 2013\Projects\jsonExample\WCFTest\obj\Debug\WCFTest.csprojResolveAssemblyReference.cache
+c:\users\sanjog\documents\visual studio 2013\Projects\jsonExample\WCFTest\obj\Debug\WCFTest.dll
+c:\users\sanjog\documents\visual studio 2013\Projects\jsonExample\WCFTest\obj\Debug\WCFTest.pdb
